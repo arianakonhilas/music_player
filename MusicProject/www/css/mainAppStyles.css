@@ -1,0 +1,35 @@
+#container{
+    margin: 3px;
+}
+
+h1{
+    text-align: center;
+}
+
+#moon{
+    max-width: 150px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#auld{
+    max-width: 75px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#green{
+    max-width: 100px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#container ul li a:focus{
+    border: 3px solid red;
+}
